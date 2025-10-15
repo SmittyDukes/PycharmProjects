@@ -1,7 +1,0 @@
-opencv-python
-mediapipe
-ultralytics
-matplotlib
-numpy
-streamlit
-tqdm
